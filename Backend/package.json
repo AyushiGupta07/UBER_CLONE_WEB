@@ -21,6 +21,7 @@
     "mongoose": "^8.19.3"
   },
   "devDependencies": {
+    "@ljharb/tsconfig": "^0.3.2",
     "nodemon": "^3.1.10"
   }
 }
