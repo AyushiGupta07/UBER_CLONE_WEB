@@ -33,7 +33,7 @@ const CaptionLogin = () => {
       <div>
         <img
           className="w-16 mb-10"
-          src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Uber_logo_2018.png/1200px-Uber_logo_2018.png?20180913054426"
+          src="https://www.svgrepo.com/show/505031/uber-driver.svg"
         />
         <form
           onSubmit={(e) => {
